@@ -5,3 +5,8 @@ segmentos de la película que te dí en dropbox.
 Se propone que tomes de las tres segmentos un muestreo de imagenes (fotos). 
 Para cada segmento y sus 10 fotos hacer un análisis de luminancia con el ADOBE y verificar 
 que las curvas de luminancia fuesen similares entre los tres segmentos o videoclips 
+
+
+Segmento 1= 0 -59
+Segmento 2= 1 - 3:07
+Segmento 3= 3:08 - 4:54
