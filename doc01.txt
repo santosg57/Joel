@@ -1,0 +1,7 @@
+5 mar 2018
+
+Calculo de la luminancia. Se trata de saber si los valores promedio de la luminancia son equivalentes entre los tres 
+segmentos de la película que te dí en dropbox.
+Se propone que tomes de las tres segmentos un muestreo de imagenes (fotos). 
+Para cada segmento y sus 10 fotos hacer un análisis de luminancia con el ADOBE y verificar 
+que las curvas de luminancia fuesen similares entre los tres segmentos o videoclips 
